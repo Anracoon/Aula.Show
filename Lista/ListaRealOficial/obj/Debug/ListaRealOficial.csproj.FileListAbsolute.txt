@@ -1,0 +1,11 @@
+C:\nana\Lista\ListaRealOficial\bin\Debug\ListaRealOficial.exe.config
+C:\nana\Lista\ListaRealOficial\bin\Debug\ListaRealOficial.exe
+C:\nana\Lista\ListaRealOficial\bin\Debug\ListaRealOficial.pdb
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.csproj.AssemblyReference.cache
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.csproj.SuggestedBindingRedirects.cache
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.Form1.resources
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.Properties.Resources.resources
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.csproj.GenerateResource.cache
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.csproj.CoreCompileInputs.cache
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.exe
+C:\nana\Lista\ListaRealOficial\obj\Debug\ListaRealOficial.pdb
